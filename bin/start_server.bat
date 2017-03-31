@@ -1,1 +1,1 @@
-mongod --dbpath C:\Fiona\Finance\Quant\Database
+mongod --dbpath C:\Fiona\GitHub\quant\Database

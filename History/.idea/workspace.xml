@@ -13,8 +13,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/History@query_spx.coverage" NAME="query_spx Coverage Results" MODIFIED="1493941863107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" MODULE_NAME="History" />
-    <SUITE FILE_PATH="coverage/History@save_spx.coverage" NAME="save_spx Coverage Results" MODIFIED="1493941819774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" MODULE_NAME="History" />
+    <SUITE FILE_PATH="coverage/History@query_spx.coverage" NAME="query_spx Coverage Results" MODIFIED="1494070420563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" MODULE_NAME="History" />
+    <SUITE FILE_PATH="coverage/History@save_spx.coverage" NAME="save_spx Coverage Results" MODIFIED="1494285791135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" MODULE_NAME="History" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -128,8 +128,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.query_spx">
+  <component name="RunManager" selected="Ruby.save_spx">
     <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="" />
@@ -327,11 +327,13 @@
       <workItem from="1493765833086" duration="408000" />
       <workItem from="1493873027934" duration="85000" />
       <workItem from="1493941813648" duration="442000" />
+      <workItem from="1494070396622" duration="333000" />
+      <workItem from="1494285785855" duration="35000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38413000" />
+    <option name="totallyTimeSpent" value="38781000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1378" height="735" extended-state="0" />

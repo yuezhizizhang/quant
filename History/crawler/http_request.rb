@@ -1,4 +1,5 @@
 require 'net/http'
+require 'net/https'
 require 'active_support/core_ext/object/blank'
 
 module Quant
@@ -15,6 +16,10 @@ module Quant
       uri.query = URI.encode_www_form(query) unless query.blank?
 
       http = Net::HTTP.new(uri.host, uri.port)
+      if uri.port == 443
+        http.verify_mode = OpenSSL::SSL::VERIFY_NONE
+        http.use_ssl = true
+      end
 
       uri_path = (uri.path.length > 0 ? uri.path : '/')
       full_path = uri_path.dup
@@ -28,5 +33,6 @@ module Quant
       return nil if url.blank?
       URI.parse(url)
     end
+
   end
 end

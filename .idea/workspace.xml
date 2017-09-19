@@ -2,7 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c44feda0-9615-4398-8139-4cde1feb6f5a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Database/journal/WiredTigerLog.0000000142" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-08-10T06-56-26Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-08-10T23-01-30Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-08-11T00-00-55Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-08-11T01-29-47Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-08-12T12-12-57Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-08-14T23-12-51Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-08-15T22-52-12Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-08-16T23-46-32Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-08-17T23-14-23Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-08-19T12-03-20Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-08-21T23-24-31Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-08-22T23-12-01Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-08-24T04-26-29Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-08-24T23-24-21Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-08-26T11-33-40Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-08-28T04-18-21Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-08-28T22-57-57Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-08-29T22-57-57Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-08-30T23-20-47Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-08-31T22-59-39Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-09-04T23-09-49Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-09-06T04-52-44Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-09-06T23-32-50Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-09-07T22-48-27Z-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Database/diagnostic.data/metrics.2017-09-10T22-45-42Z-00000" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Database/journal/WiredTigerLog.0000000165" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/WiredTiger.wt" afterPath="$PROJECT_DIR$/Database/WiredTiger.wt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/collection-0--6317646361501159061.wt" afterPath="$PROJECT_DIR$/Database/collection-0--6317646361501159061.wt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/collection-0-3190913417707562516.wt" afterPath="$PROJECT_DIR$/Database/collection-0-3190913417707562516.wt" />
@@ -13,6 +38,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Charts/data.csv" afterPath="$PROJECT_DIR$/Charts/data.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/WiredTiger.turtle" afterPath="$PROJECT_DIR$/Database/WiredTiger.turtle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/History/main/query_spx.rb" afterPath="$PROJECT_DIR$/History/main/query_spx.rb" />
     </list>
     <ignored path="Quant.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,13 +51,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/quant@save_spx.coverage" NAME="save_spx Coverage Results" MODIFIED="1502233354569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/History/main" MODULE_NAME="Quant" />
+    <SUITE FILE_PATH="coverage/quant@save_spx.coverage" NAME="save_spx Coverage Results" MODIFIED="1505775083035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/History/main" MODULE_NAME="Quant" />
     <SUITE FILE_PATH="coverage/Quant@ema.coverage" NAME="ema Coverage Results" MODIFIED="1485258908832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/History/main" MODULE_NAME="Quant" />
     <SUITE FILE_PATH="coverage/Quant@save_spx.coverage" NAME="save_spx Coverage Results" MODIFIED="1486791430191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/History/main" MODULE_NAME="Quant" />
     <SUITE FILE_PATH="coverage/quant@save_wti.coverage" NAME="save_wti Coverage Results" MODIFIED="1498790062837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/History/main" MODULE_NAME="Quant" />
     <SUITE FILE_PATH="coverage/quant@wti.coverage" NAME="wti Coverage Results" MODIFIED="1498787658566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/History/crawler" MODULE_NAME="Quant" />
     <SUITE FILE_PATH="coverage/Quant@download_spx.coverage" NAME="download_spx Coverage Results" MODIFIED="1484475461601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin" MODULE_NAME="Quant" />
-    <SUITE FILE_PATH="coverage/quant@query_spx.coverage" NAME="query_spx Coverage Results" MODIFIED="1502233366208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/History/main" MODULE_NAME="Quant" />
+    <SUITE FILE_PATH="coverage/quant@query_spx.coverage" NAME="query_spx Coverage Results" MODIFIED="1505775198330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/History/main" MODULE_NAME="Quant" />
     <SUITE FILE_PATH="coverage/Quant@main.coverage" NAME="main Coverage Results" MODIFIED="1483868133562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/History/crawler" MODULE_NAME="Quant" />
     <SUITE FILE_PATH="coverage/Quant@mongodb.coverage" NAME="mongodb Coverage Results" MODIFIED="1483869479419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/History/crawler" MODULE_NAME="Quant" />
     <SUITE FILE_PATH="coverage/Quant@query_spx.coverage" NAME="query_spx Coverage Results" MODIFIED="1486791462224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/History/main" MODULE_NAME="Quant" />
@@ -48,8 +74,8 @@
       <file leaf-file-name="save_spx.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/History/main/save_spx.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+            <state relative-caret-position="837">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -58,7 +84,7 @@
       <file leaf-file-name="save_wti.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/History/main/save_wti.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
+            <state relative-caret-position="216">
               <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
               <folding />
             </state>
@@ -68,7 +94,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
+            <state relative-caret-position="216">
               <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding />
             </state>
@@ -78,8 +104,8 @@
       <file leaf-file-name="mongodb.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/History/crawler/mongodb.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1925">
-              <caret line="77" column="38" lean-forward="false" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="38" />
+            <state relative-caret-position="1269">
+              <caret line="47" column="35" lean-forward="false" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -98,7 +124,7 @@
       <file leaf-file-name="util.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/History/common/util.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
+            <state relative-caret-position="54">
               <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               <folding />
             </state>
@@ -108,7 +134,7 @@
       <file leaf-file-name="wti.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/History/crawler/wti.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="324">
               <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="27" />
               <folding />
             </state>
@@ -118,7 +144,7 @@
       <file leaf-file-name="http_request.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/History/crawler/http_request.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
+            <state relative-caret-position="729">
               <caret line="27" column="45" lean-forward="false" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
               <folding />
             </state>
@@ -128,14 +154,21 @@
       <file leaf-file-name="query_spx.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/History/main/query_spx.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1175">
-              <caret line="47" column="20" lean-forward="false" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+            <state relative-caret-position="648">
+              <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>2.1</find>
+      <find>remov</find>
+      <find>1.4</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -157,12 +190,12 @@
         <option value="$PROJECT_DIR$/bin/download_spx.rb" />
         <option value="$PROJECT_DIR$/Charts/css/style.css" />
         <option value="$PROJECT_DIR$/History/main/ema.rb" />
-        <option value="$PROJECT_DIR$/History/main/query_spx.rb" />
         <option value="$PROJECT_DIR$/History/crawler/mongodb.rb" />
         <option value="$PROJECT_DIR$/History/crawler/http_request.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/History/main/save_wti.rb" />
         <option value="$PROJECT_DIR$/History/crawler/wti.rb" />
+        <option value="$PROJECT_DIR$/History/main/query_spx.rb" />
         <option value="$PROJECT_DIR$/History/main/save_spx.rb" />
       </list>
     </option>
@@ -259,6 +292,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="crawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="quant" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="History" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -577,23 +628,54 @@
       <workItem from="1501801078958" duration="177000" />
       <workItem from="1501932535754" duration="49000" />
       <workItem from="1502166532150" duration="24000" />
-      <workItem from="1502233350829" duration="423000" />
+      <workItem from="1502233350829" duration="615000" />
+      <workItem from="1502348621304" duration="14000" />
+      <workItem from="1502406115635" duration="259000" />
+      <workItem from="1502409588129" duration="984000" />
+      <workItem from="1502415008771" duration="648000" />
+      <workItem from="1502540000541" duration="37000" />
+      <workItem from="1502753109092" duration="553000" />
+      <workItem from="1502837566726" duration="302000" />
+      <workItem from="1502927586984" duration="196000" />
+      <workItem from="1503011732181" duration="1158000" />
+      <workItem from="1503144235190" duration="62000" />
+      <workItem from="1503357924378" duration="623000" />
+      <workItem from="1503443549750" duration="127000" />
+      <workItem from="1503548860013" duration="753000" />
+      <workItem from="1503617225822" duration="149000" />
+      <workItem from="1503747247852" duration="34000" />
+      <workItem from="1503893970349" duration="27000" />
+      <workItem from="1503961121569" duration="39000" />
+      <workItem from="1504047516619" duration="53000" />
+      <workItem from="1504135281451" duration="52000" />
+      <workItem from="1504220433279" duration="637000" />
+      <workItem from="1504566624132" duration="2177000" />
+      <workItem from="1504673592186" duration="683000" />
+      <workItem from="1504740911115" duration="136000" />
+      <workItem from="1504824743835" duration="125000" />
+      <workItem from="1505083572244" duration="433000" />
+      <workItem from="1505171623136" duration="728000" />
+      <workItem from="1505258774195" duration="709000" />
+      <workItem from="1505363976882" duration="669000" />
+      <workItem from="1505435972728" duration="628000" />
+      <workItem from="1505561021862" duration="47000" />
+      <workItem from="1505775078660" duration="720000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116466000" />
+    <option name="totallyTimeSpent" value="130420000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="3862" height="2122" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.092447914" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09192708" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46170443" sideWeight="0.50104165" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5806613" sideWeight="0.49895832" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5761523" sideWeight="0.49895832" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -954,46 +1036,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/History/common/util.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/History/crawler/http_request.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="27" column="45" lean-forward="false" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/History/crawler/mongodb.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1925">
-          <caret line="77" column="38" lean-forward="false" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/History/main/save_wti.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/History/models/kchart.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1001,10 +1043,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/History/crawler/wti.rb">
+    <entry file="file://$PROJECT_DIR$/History/main/save_wti.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="27" />
+        <state relative-caret-position="216">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -1017,18 +1067,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/History/common/util.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/History/crawler/wti.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/History/crawler/http_request.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="27" column="45" lean-forward="false" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/History/crawler/mongodb.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1269">
+          <caret line="47" column="35" lean-forward="false" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/History/main/query_spx.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1175">
-          <caret line="47" column="20" lean-forward="false" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+        <state relative-caret-position="648">
+          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/History/main/save_spx.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        <state relative-caret-position="837">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>

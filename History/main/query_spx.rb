@@ -22,7 +22,7 @@ end
 
 def read_db(db)
   today = Date.today.strftime('%Y-%m-%d')
-  results = db.query_kseries('2016-1-1', today)
+  results = db.query_kseries('2015-1-1', today)
   results
 end
 
@@ -35,10 +35,10 @@ end
 
 def write_data(db, results)
   CSV.open("../../Charts/data.csv", "w") do |csv|
-    csv << ['Date', 'Open', 'High', 'Low', 'Close', 'Pcr', 'Volume']
+    csv << ['Date', 'Open', 'Close', 'High', 'Low',  'Pcr', 'Volume']
     results.each { |doc|
       data = format_spx(doc)
-      csv << [data[0], data[1], data[3], data[4], data[2], data[5], data[6]]
+      csv << [data[0], data[1], data[2], data[3], data[4],  data[5], data[6]]
     }
   end
 
